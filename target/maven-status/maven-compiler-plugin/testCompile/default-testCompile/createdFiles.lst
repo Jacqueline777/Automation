@@ -1,0 +1,7 @@
+processes\testrail\TestRailAccount.class
+processes\Hooks.class
+processes\testrail\APIClient.class
+processes\EventsListener.class
+Testrunner.class
+processes\testrail\APIException.class
+stepsdef\MyStepsdefs.class
