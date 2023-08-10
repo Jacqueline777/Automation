@@ -1,9 +1,10 @@
-package processes;
+package processes.SecureCitizen;
+
 import io.restassured.RestAssured;
-import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.json.simple.JSONObject;
-import static io.restassured.RestAssured.*;
+
+import static io.restassured.RestAssured.given;
 import static org.hamcrest.core.IsEqual.equalTo;
 
 public class Process {
